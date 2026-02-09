@@ -35,4 +35,10 @@ A single bar plot of mean F1-score is included to support comparison without unn
 - Results highlight the importance of systematic evaluation rather than relying on a single metric.
 
 ## Research Contribution
+
 This project demonstrates a reproducible machine learning pipeline with emphasis on fairness, consistency analysis, and research-oriented evaluation practices.
+
+Model f1 comparison
+<br>
+<br>
+<img src="https://github.com/pratimadhende/ml-model-comparative-study/blob/869a0db726c3ba7693491b3ac8867a1e5fc387a2/model_f1_comparison.png" alt="Image Discription" width="500">
